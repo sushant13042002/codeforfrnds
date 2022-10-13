@@ -13,7 +13,7 @@ void pypart(int n)
 		for (int j = 0; j <= i; j++) {
 
 			// Printing stars
-			cout << "* ";
+			cout << " @ ";
 		}
 
 		// Ending line after each row
@@ -24,7 +24,7 @@ void pypart(int n)
 // Driver Function
 int main()
 {
-	int n = 5;
+	int n = 6;
 	pypart(n);
 	return 0;
 }
