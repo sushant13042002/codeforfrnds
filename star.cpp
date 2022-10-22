@@ -14,6 +14,7 @@ void pypart(int n)
 
 			// Printing stars
 			cout << " @ ";
+			cout << " @ ";
 		}
 
 		// Ending line after each row
